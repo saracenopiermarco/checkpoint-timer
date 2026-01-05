@@ -41,7 +41,9 @@ pip install kivy
 ```
 
 Run the app:
-```python main.py```
+```
+python main.py
+```
 
 ### Android (via Pydroid 3)
 Install Pydroid 3 from the Play Store, then inside the app:
