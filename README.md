@@ -43,18 +43,16 @@ pip install kivy```
 Run the app:
 ```python main.py```
 
-
 ## Android (via Pydroid 3)
 Install Pydroid 3 from the Play Store, then inside the app:
 
-# Open main.py inside Pydroid 3
-# Then press "Run"
-
+Open main.py inside Pydroid 3
+Then press "Run"
 
 ## iOS (via Pythonista 3)
 Install Pythonista 3 from the App Store, then:
-# Open main.py inside Pythonista
-# Tap the Play button to run the script
+Open main.py inside Pythonista
+Tap the Play button to run the script
 
 ## 📜 License
 Released under the **MIT License**.
