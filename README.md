@@ -54,9 +54,6 @@ Install Pythonista 3 from the App Store, then:
 Open main.py inside Pythonista
 Tap the Play button to run the script
 
-## 📜 License
-Released under the **MIT License**.
-
 ---
 
 ## 🤝 Contributing
