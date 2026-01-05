@@ -37,7 +37,7 @@ Useful for:
 Install Kivy:
 
 ```
-pip install kivy```
+pip install kivy
 ```
 
 Run the app:
